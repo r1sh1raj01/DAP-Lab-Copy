@@ -1,6 +1,6 @@
 # DAP-Lab-Copy
-All DAP lab experiments (1-8) added in this rep
-###Experiments:
+All DAP lab experiments (1-8) added in this repo <br><br>
+### Experiments:
 ###### Weather Data Analysis
 ###### Cars Data Analysis
 ###### Police Data Analysis
